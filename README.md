@@ -3,6 +3,7 @@
 ## 🌈 projeto
 
 o myLand é uma landing page responsiva que objetiva explicar o que é uma landing page de forma sucinta. 
+
 desafio proposto pelo professor Gabriel Augusto, responsável pelo componente de Desenvolvimento Web.
 
 você pode conferir [aqui](https://giovxna.github.io/landing-page/).
